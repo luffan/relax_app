@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492174324239",
+    "project_id": "relax-app-2456a",
+    "storage_bucket": "relax-app-2456a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492174324239:android:39ebd0e8695559e6d4697a",
+        "android_client_info": {
+          "package_name": "com.luffan.relax_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492174324239-564bpu451ltcqcdkmtg51apqe1u31elt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_93C3s57IcJDJFmlC2mz9aIfFfrRGpTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492174324239-564bpu451ltcqcdkmtg51apqe1u31elt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
